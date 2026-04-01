@@ -1,1 +1,3 @@
-# ihomehe-portfolio
+# Ihomehe Agbebaku — Communications Portfolio
+
+Personal portfolio site for Ihomehe Agbebaku, communications professional based in Vancouver, BC.
